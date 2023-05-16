@@ -5,7 +5,7 @@ import static org.junit.Assert.assertEquals;
 
 public class CalTest {
 
-    Calculator calculator;
+    private Calculator calculator;
 
     @Before
     public void before(){
